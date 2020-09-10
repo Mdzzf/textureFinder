@@ -1,0 +1,15 @@
+D:\common\game\steam\steamapps\common\RimWorld\Mods\495-art\1.1\Assemblies\PIGEON.dll
+D:\common\game\steam\steamapps\common\RimWorld\Mods\495-art\1.1\Assemblies\PIGEON.pdb
+C:\Users\10618\source\repos\PIGON\PIGON\obj\Debug\PIGEON.csproj.CoreCompileInputs.cache
+C:\Users\10618\source\repos\PIGON\PIGON\obj\Debug\PIGEON.dll
+C:\Users\10618\source\repos\PIGON\PIGON\obj\Debug\PIGEON.pdb
+C:\Users\10618\source\repos\PIGON\PIGON\obj\Debug\PIGEON.csprojAssemblyReference.cache
+D:\common\game\steam\steamapps\common\RimWorld\Mods\2223312012\Assemblies\PIGEON.dll
+D:\common\game\steam\steamapps\common\RimWorld\Mods\2223312012\Assemblies\PIGEON.pdb
+D:\common\game\steam\steamapps\common\RimWorld\Mods\2223312012\source\PIGON\obj\Debug\PIGEON.csprojAssemblyReference.cache
+D:\common\game\steam\steamapps\common\RimWorld\Mods\2223312012\source\PIGON\obj\Debug\PIGEON.csproj.CoreCompileInputs.cache
+D:\common\game\steam\steamapps\common\RimWorld\Mods\2223312012\source\PIGON\obj\Debug\PIGEON.dll
+D:\common\game\steam\steamapps\common\RimWorld\Mods\2223312012\source\PIGON\obj\Debug\PIGEON.pdb
+D:\common\game\steam\steamapps\common\RimWorld\Mods\2223312012\source\PIGON\obj\Debug\PIGEON.csproj.CopyComplete
+D:\common\game\steam\steamapps\workshop\content\294100\2223312012\Assemblies\PIGEON.dll
+D:\common\game\steam\steamapps\workshop\content\294100\2223312012\Assemblies\PIGEON.pdb

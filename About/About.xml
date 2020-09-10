@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>PIGEON's Texture Finder</name>
+	<author>PIGE_ON</author>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2223312012</url>
+    <supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+    </supportedVersions>
+	<packageId>PIGEON.Texture.Finder</packageId>
+    <description>
+    	this mod help your game to find Texture by your config, and to a certain extent solve the pink box caused by alien mod .\n you can see more details in steam.
+	</description>
+</ModMetaData>

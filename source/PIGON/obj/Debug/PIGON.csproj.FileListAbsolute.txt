@@ -1,0 +1,6 @@
+D:\common\game\steam\steamapps\common\RimWorld\Mods\495-art\1.1\Assemblies\PIGON.dll
+D:\common\game\steam\steamapps\common\RimWorld\Mods\495-art\1.1\Assemblies\PIGON.pdb
+C:\Users\10618\source\repos\PIGON\PIGON\obj\Debug\PIGON.csprojAssemblyReference.cache
+C:\Users\10618\source\repos\PIGON\PIGON\obj\Debug\PIGON.csproj.CoreCompileInputs.cache
+C:\Users\10618\source\repos\PIGON\PIGON\obj\Debug\PIGON.dll
+C:\Users\10618\source\repos\PIGON\PIGON\obj\Debug\PIGON.pdb

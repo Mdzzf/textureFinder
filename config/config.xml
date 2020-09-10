@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<setting>
+	<!--gobal append setting -->
+	<AppendGobal>
+		<li>Female</li>
+		<li>Thin</li>
+		<li>RakkleF</li>
+		<li>RakkleM</li>
+	</AppendGobal>
+
+	<!--gobal exclude setting-->
+	<ExcludeFoldersGobal>
+		<li>Weapon</li>
+	</ExcludeFoldersGobal>
+
+
+	<!--setting for mod-->
+	<packages>
+
+		<!--single package-->
+
+		<package>
+			<packageId>
+				GloomyLynx.DragonianRace
+			</packageId>
+			<excludeFolders>
+				<li>Body</li>
+				<li>Hair</li>
+				<li>Head</li>
+				<li>Things</li>
+				<li>Weapon</li>
+			</excludeFolders>
+		</package>
+
+		<package>
+			<packageId>
+				Solaris.RatkinRaceMod
+			</packageId>
+			<excludeFolders>
+				<li>Animal</li>
+				<li>Body</li>
+				<li>Hair</li>
+				<li>Head</li>
+				<li>Icon</li>
+				<li>Pet</li>
+				<li>Storyteller</li>
+				<li>Things</li>
+				<li>UI</li>
+				<li>Weapon</li>
+			</excludeFolders>
+		</package>
+
+		<package>
+			<packageId>
+				Nemonian.MY
+			</packageId>
+			<excludeFolders>
+				<li>Things/Buildings</li>
+				<li>Things/Drugs</li>
+				<li>Things/Weapons</li>
+				<li>Moyo</li>
+				<li>Icon</li>
+			</excludeFolders>
+		</package>
+
+		<package>
+			<packageId>
+				jkviolet.rakkleracemode.copy
+			</packageId>
+			<excludeFolders>
+				<li>Icon</li>
+				<li>Things</li>
+				<li>Rakkles/Bodies</li>
+				<li>Rakkles/Hairs</li>
+				<li>Rakkles/Heads</li>
+				<li>Rakkles/Tails</li>
+				<li>Rakkles/Things</li>
+			</excludeFolders>
+		</package>
+
+		<package>
+			<packageId>
+				Haduki.AncientSpecies
+			</packageId>
+			<excludeFolders>
+				<li>AT</li>
+				<li>Wolfen</li>
+				<li>WHE/Bodies</li>
+				<li>WHE/Hairs</li>
+				<li>WHE/Heads</li>
+				<li>WHE/Weapons</li>
+			</excludeFolders>
+		</package>
+	</packages>
+</setting>

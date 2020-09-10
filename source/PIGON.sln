@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIGEON", "PIGON\PIGEON.csproj", "{BE8EA4D1-80EC-4ABB-84C1-D790A5A5068A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8EA4D1-80EC-4ABB-84C1-D790A5A5068A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8EA4D1-80EC-4ABB-84C1-D790A5A5068A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8EA4D1-80EC-4ABB-84C1-D790A5A5068A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8EA4D1-80EC-4ABB-84C1-D790A5A5068A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {534B9647-2068-4387-AFDC-575F4D6D1B38}
+	EndGlobalSection
+EndGlobal
